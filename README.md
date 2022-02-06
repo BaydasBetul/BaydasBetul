@@ -16,15 +16,16 @@
 <br>
 <br>
 
- I am Frond-End Developer💻. I have experience and lots of Interest in  Frond-End Web Developement. Some technology I enjoy working  with include Django, MySQL, PostgreSQL, Javascript, HTML, CSS, React, Bootstrap, SASS. 
+ I am Frond-End Developer💻. I have lots of Interest in  Frond-End Web Developement. Some technology I enjoy working  with include Django, MySQL, PostgreSQL, Javascript, HTML, CSS, React, Bootstrap, SASS. 
 **Personal Stuffs:**
 
 - 💻I'm currently working on New Web App;
 - 🌱 I'm currently learning Everything; 
 - 👯 I'm looking to collaborate.... ;
-- 💬 Ask me about: Web development;
 - ⚡️ Fun-Fact: lots of fun facts;
-- 📫 How to reach me: [Contact](bbaydas85@gmail.com)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bet%C3%BClbaydas/">
+  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
  
 <br />
